@@ -27,6 +27,7 @@ get_recommendations({Book Name}, books_info, 'Adjusted_Cosine', {Number of Recom
 ## Future Works :memo:
 1. Implementing hybrid approaches that combine user-based and item-based
 collaborative filtering
-2. Update Project Structure
-3. Build a Discord Bot with interactive features
+2. Implementing Singular Value Decomposition(SVD) to deal with sparse data in user-based collaborative filtering
+3. Update Project Structure
+4. Build a Discord Bot with interactive features
 
